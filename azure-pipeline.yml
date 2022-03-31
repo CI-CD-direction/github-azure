@@ -6,7 +6,7 @@
 trigger:
   - master
 
-name: vpanki
+name: vpankigithub
 
 pool:
   vmImage: ubuntu-latest
