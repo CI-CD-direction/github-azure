@@ -6,6 +6,8 @@
 trigger:
   - master
 
+name: vpanki
+
 pool:
   vmImage: ubuntu-latest
 
